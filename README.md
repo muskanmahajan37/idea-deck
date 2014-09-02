@@ -1,3 +1,3 @@
 # Idea Deck
 
-wip
+wip, users submit product/service ideas & can vote hacker news style.
